@@ -33,7 +33,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.ConfigureLibrary(builder.Configuration);
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<PetProjectDbContext>().AddDefaultTokenProviders();
-builder.Services.AddDbContext<PetProjectDbContext>(dbContextOptions => dbContextOptions.UseSqlite(builder.Configuration["ConnectionStrings:DefaultConnection"]));
+builder.Services.AddDbContext<PetProjectDbContext>(dbContextOptions => dbContextOptions.UseNpgsql(builder.Configuration["ConnectionStrings:IdentityConnection"]));
 builder.Services.AddScoped<IAccountRepo, AccountRepo>();
 builder.Services.AddScoped<IAccountService, AccountService>();
 builder.Services.AddScoped<IGenerateJwt, GenerateJwt>();

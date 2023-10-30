@@ -1780,11 +1780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsahe\\OneDrive\\Documents\\Sample\\PetProject.Data\\PetProject.Data.csproj",
+      "projectUniqueName": "C:\\Users\\bsahe\\Documents\\Git_Project\\nasaexpress_backend\\PetProject.Data\\PetProject.Data.csproj",
       "projectName": "PetProject.Data",
-      "projectPath": "C:\\Users\\bsahe\\OneDrive\\Documents\\Sample\\PetProject.Data\\PetProject.Data.csproj",
+      "projectPath": "C:\\Users\\bsahe\\Documents\\Git_Project\\nasaexpress_backend\\PetProject.Data\\PetProject.Data.csproj",
       "packagesPath": "C:\\Users\\bsahe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsahe\\OneDrive\\Documents\\Sample\\PetProject.Data\\obj\\",
+      "outputPath": "C:\\Users\\bsahe\\Documents\\Git_Project\\nasaexpress_backend\\PetProject.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bsahe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1801,8 +1801,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bsahe\\OneDrive\\Documents\\Sample\\PetProject.Model\\PetProject.Model.csproj": {
-              "projectPath": "C:\\Users\\bsahe\\OneDrive\\Documents\\Sample\\PetProject.Model\\PetProject.Model.csproj"
+            "C:\\Users\\bsahe\\Documents\\Git_Project\\nasaexpress_backend\\PetProject.Model\\PetProject.Model.csproj": {
+              "projectPath": "C:\\Users\\bsahe\\Documents\\Git_Project\\nasaexpress_backend\\PetProject.Model\\PetProject.Model.csproj"
             }
           }
         }

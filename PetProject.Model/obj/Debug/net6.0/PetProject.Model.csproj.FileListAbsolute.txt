@@ -22,3 +22,15 @@ C:\Users\bsahe\OneDrive\Documents\Sample\PetProject.Model\obj\Debug\net6.0\PetPr
 C:\Users\bsahe\OneDrive\Documents\Sample\PetProject.Model\obj\Debug\net6.0\refint\PetProject.Model.dll
 C:\Users\bsahe\OneDrive\Documents\Sample\PetProject.Model\obj\Debug\net6.0\PetProject.Model.pdb
 C:\Users\bsahe\OneDrive\Documents\Sample\PetProject.Model\obj\Debug\net6.0\ref\PetProject.Model.dll
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\bin\Debug\net6.0\PetProject.Model.deps.json
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\bin\Debug\net6.0\PetProject.Model.dll
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\bin\Debug\net6.0\PetProject.Model.pdb
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\PetProject.Model.csproj.AssemblyReference.cache
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\PetProject.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\PetProject.Model.AssemblyInfoInputs.cache
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\PetProject.Model.AssemblyInfo.cs
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\PetProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\PetProject.Model.dll
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\refint\PetProject.Model.dll
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\PetProject.Model.pdb
+C:\Users\bsahe\Documents\Git_Project\nasaexpress_backend\PetProject.Model\obj\Debug\net6.0\ref\PetProject.Model.dll
